@@ -17,7 +17,7 @@ section .sorry {
   float: right;
   font-size: 5em;
   text-align: center;
-  margin-top: -7em;
+  margin-top: -9em;
   font-family: open sans;
 }
 
@@ -28,7 +28,7 @@ section .sorry {
   float: right;
   width: 50%;
   text-align: center;
-  margin-top: -8em;
+  margin-top: -12em;
 }
 
 
@@ -37,7 +37,7 @@ section .sorry {
   display: inline-block;
   float: right;
   padding: 5%;
-  margin-top: -20em;
+  margin-top: -35em;
   padding-right: 15%;
 }
 
@@ -49,6 +49,6 @@ section .sorry {
   font-family: open sans;
   font-size: 1.5em;
   text-align: center;
-  margin-top: -1em;
-  margin-right: -25em;
+  margin-top: -7em;
+  margin-right: -35em;
 }
